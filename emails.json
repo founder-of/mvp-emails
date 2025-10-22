@@ -4,7 +4,7 @@
     "sender": "alice@example.com",
     "subject": "Welcome to the test",
     "summary": "Hi — welcome. This is a short two-sentence summary for your first test email.",
-    "visibility": 1
+    "visibility": 100
   },
   {
     "id": 2,
