@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "sender": "alice@example.com",
+    "subject": "Welcome to the test",
+    "summary": "Hi — welcome. This is a short two-sentence summary for your first test email.",
+    "visibility": 0
+  },
+  {
+    "id": 2,
+    "sender": "bob@example.com",
+    "subject": "Project update",
+    "summary": "Quick update: the build passed. Action required tomorrow morning only.",
+    "visibility": 0
+  },
+  {
+    "id": 3,
+    "sender": "carol@example.com",
+    "subject": "Reminder: meeting",
+    "summary": "Reminder: team meeting at 3 PM. Bring quick notes.",
+    "visibility": 0
+  }
+]
